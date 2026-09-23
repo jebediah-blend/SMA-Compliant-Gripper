@@ -14,7 +14,9 @@ September 22 - Learning CAD design-
     TOTAL TIME -- 4 Hours
 
 September 23 - Continuing with CAD-
-  - Switched from a youtube tutorial to Autodesk's own tutorial series
-  - New tutorial better suits my existing knowlage of 3D and understanding the projection of an actual model.
-
+  - Understood parameters in Fusion
+  - continued understanding materials that can be used
+  - Nitinol may not be ideal but further research is needed
+  - Trying to understand actual geometry of claw, looked into similar projects on compliant mechanisms
+    
     TOTAL TIME -- 2.5 Hours
