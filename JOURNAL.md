@@ -30,6 +30,7 @@ September 25 - Sketching the gripper-
     <img width="318" height="437" alt="image" src="https://github.com/user-attachments/assets/f6a7fd4d-8259-4cb9-8fbd-29459819c710" />
   - Also included two references from other creators (neither my work, nor a final idea) for reference.
     <img width="192" height="144" alt="image" src="https://github.com/user-attachments/assets/d9383f1d-8b37-4a44-ac79-8c0a4afc8d87" />
+    
     Credit- Petar Crnjak on https://hackaday.io/project/174555-compliant-robotic-gripper
     <img width="1277" height="960" alt="image" src="https://github.com/user-attachments/assets/45008fe4-43e9-491d-a318-ebee9d7c6961" />
     Credit- Fabian Veile on https://www.printables.com/model/86936-bistable-compliant-robot-gripper-fractal-fingers/related
