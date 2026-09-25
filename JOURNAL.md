@@ -27,3 +27,5 @@ September 25 - Sketching the gripper-
   - Made good progress, about halfway done with gripper itself.
   - Nitinol may not be able to sustain a fource sufficient to grip an object for extended periods of time.
   - May employ a ribbed structure to maintain open or closed shape for extended durations. Here is my best attempt at explaining it without the CAD sketch. Picture a spiral-bound book whose covers are held a fixed distance apart closer than the pages' natural flat length, so the pages are always under slight compression and have to bend into a curve rather than lie flat. This means that the dirrection of bowing is not fixed. if we push on the spine from one side and they will snap to curve the other way, then stay there with no force needed, until pushed back.
+
+    Total time -- 4 Hours
