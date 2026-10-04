@@ -40,3 +40,19 @@ September 25 - Sketching the gripper-
     Total time -- 4 Hours
 
 
+September 29 - Test Print-
+      - Finished non SMA actuated version of gripper without the bistable ribs, just to test if the rib thickness, rib spacing, overall scale off the gripper etc. were suitable.
+      - Currently ribs are 1 mm thick with 5 mm spacing.
+      - Sent test print to robu.in to print with their online FDM printing service.
+      - Sent in PETG with a 20% infill based on google search.
+      - No Idea how well this will work out.
+      Total time -- 3.5 Hours
+      (I forgot to commit this one then so I did it now)
+
+October 4 - Received First Version-
+  - Received orint from robu.in after nearly a week.
+  - My pessimism was justified
+  - 1 mm thick PETG ribs is almost completely rigid, not flexible at all.
+  - It may be flexible over longer ribs but not so in ribs that range from 5 mm to 25 mm.
+  - Feel bad about how badly this failed but I cant say I expected this to work.
+  - Attached pictures of failed design.
