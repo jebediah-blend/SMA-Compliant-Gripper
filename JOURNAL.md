@@ -62,3 +62,14 @@ October 4 - Received First Version-
 <img width="3024" height="4032" alt="2026-10-04 17 54" src="https://github.com/user-attachments/assets/28ae398a-a19a-4fd4-b6db-8108742daed0" />
 <img width="3024" height="4032" alt="2026-10-04 17 56" src="https://github.com/user-attachments/assets/9daabe3b-5b43-409a-b57d-10ec5233405e" />
 <img width="3024" height="4032" alt="2026-10-04 17 56 (1)" src="https://github.com/user-attachments/assets/a3bc680c-70f9-4eb4-aac0-9347ceb4c881" />
+
+**October 6 - Setting Some Rules-**
+  - I finally created a README for this project to describe what my current idea is.
+  - It contains things like
+      - The 6 objectives for the project, to give an idea of what completion might actually look like
+      - The current design I am pursuing
+      - An estimated BOM
+  - The main idea is that I may be able to have all non electrical parts printed in place using existing multi material capabilities that exist on the market today, electrical wiring also be as simple as possible and that there be no leakage of current that may damage other parts of the ROV or the environments where it may be deployed.
+  - It also includes a brief outline of why I chose a specific design.
+
+Total time -- 0.5 Hours
